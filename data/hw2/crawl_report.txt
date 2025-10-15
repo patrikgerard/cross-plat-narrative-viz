@@ -1,0 +1,35 @@
+
+Patrick Gerard
+Crawl Report
+=======================
+Number of threads used: 48
+Time elapsed (s): 9079.03
+
+Fetches
+-----------------------
+# fetches attempted: 9855
+# fetches succeeded: 9326
+# fetches failed or aborted: 529
+(2) attempted == succeeded + failed? True
+
+URL Statistics
+-----------------------
+(4) # unique URLs extracted: 60803
+    - within site (OK): 50629
+    - outside site (N_OK): 10174
+(5) Total URLs extracted (rows in urls.csv): 3576109
+(5) Total outgoing links encountered (sum of visit outlinks): 3569284
+(5) Equality check: False
+
+Consistency Checks
+-----------------------
+(6) Status code 200 count equals fetches succeeded? True
+(7) # files in size statistics (visit.csv rows) ≤ # fetches succeeded? True
+(8) # files in content types (visit.csv rows) ≤ # fetches succeeded? True
+
+File Counts & Headers
+-----------------------
+(3) Rows in fetch.csv: 9855 | Close to 20,000 (±2,000)? False
+    Explanation: robots.txt restrictions and/or host crawl-delays and/or max-pages cap and/or network errors.
+(9) Data in fetch.csv and visit.csv cross-validates against this report.
+(10) CSV column headers included: YES (fetch.csv, visit.csv, urls.csv)
