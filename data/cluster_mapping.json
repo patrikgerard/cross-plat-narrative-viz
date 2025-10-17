@@ -1,6 +1,4 @@
 [
-  {"id": 7850, "overview": "Harris criticized for lack of clear policies or leadership.", "relevance": "High", "theme": "Candidate Image & Competence"},
-  {"id": 174, "overview": "Large share of Americans support Trump.", "relevance": "High", "theme": "Identity & Polarization"},
   {"id": 2621, "overview": "Biden’s DOJ weaponized against Trump.", "relevance": "Very High", "theme": "Conspiracy & Deep State"},
   {"id": 1598, "overview": "Republicans blocked border bill.", "relevance": "Moderate-High", "theme": "Immigration & Border"},
   {"id": 4422, "overview": "Supreme Court granted Trump presidential immunity.", "relevance": "Very High", "theme": "Mainstream & Event Reactions"},
@@ -13,7 +11,6 @@
   {"id": 7427, "overview": "Trump protected by God.", "relevance": "Very High", "theme": "Identity & Polarization"},
   {"id": 6998, "overview": "FBI involved in Trump assassination attempt.", "relevance": "Extremely High", "theme": "Conspiracy & Deep State"},
   {"id": 5176, "overview": "Hillary Clinton involved in killings / corruption.", "relevance": "Very High", "theme": "Conspiracy & Deep State"},
-  {"id": 97, "overview": "Politicians are corrupt and bought out.", "relevance": "High", "theme": "Corruption & Legitimacy"},
   {"id": 1453, "overview": "Trump as family man and strong father.", "relevance": "Moderate-High", "theme": "Candidate Image & Competence"},
   {"id": 457, "overview": "Food prices rising under Biden.", "relevance": "High", "theme": "Economic Conditions & Blame"},
   {"id": 1202, "overview": "Biden forgiving student loan debt.", "relevance": "High", "theme": "Economic Conditions & Blame"},
