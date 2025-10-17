@@ -1,0 +1,31 @@
+Name: Patrick Gerard
+USC ID: 1234567890
+News site crawled: foxnews.com
+Number of threads: 48
+
+
+Fetches
+-----------------------
+# fetches attempted: 9855
+# fetches succeeded: 9326
+# fetches failed or aborted: 529
+
+URL Statistics
+-----------------------
+(4) # unique URLs extracted: 60803
+    - within site (OK): 50629
+    - outside site (N_OK): 10174
+(5) Total URLs extracted (rows in urls.csv): 3576109
+(5) Total outgoing links encountered (sum of visit outlinks): 3569284
+(5) Equality check: False
+
+Consistency Checks
+-----------------------
+(6) Status code 200 count equals fetches succeeded? True
+(7) # files in size statistics (visit.csv rows) ≤ # fetches succeeded? True
+(8) # files in content types (visit.csv rows) ≤ # fetches succeeded? True
+
+File Counts & Headers
+-----------------------
+(9) Data in fetch.csv and visit.csv cross-validates against this report.
+(10) CSV column headers included: YES (fetch.csv, visit.csv, urls.csv)
