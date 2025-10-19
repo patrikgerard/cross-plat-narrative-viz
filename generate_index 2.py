@@ -23,7 +23,7 @@ NARRATIVE_DESCRIPTIONS = {
     1158: "Russia disinformation / collusion flip",
 }
 
-def generate_index_from_cluster_files(data_dir="./data"):
+def generate_index_from_cluster_files(data_dir="public/data"):
     """
     Automatically generate index.json from existing cluster_*.json files
     with narrative descriptions when available
