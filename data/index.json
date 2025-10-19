@@ -1,0 +1,2764 @@
+{
+  "export_date": "2025-10-19T12:46:48.168277",
+  "num_clusters": 274,
+  "total_size_mb": 705.98,
+  "narratives_identified": 16,
+  "clusters": [
+    {
+      "cluster_id": 1,
+      "file": "cluster_1.json",
+      "size_mb": 2.83,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 122,
+      "date_range": "2024-04-01 to 2024-11-30",
+      "total_posts": 37585
+    },
+    {
+      "cluster_id": 5,
+      "file": "cluster_5.json",
+      "size_mb": 2.82,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 122,
+      "date_range": "2024-04-01 to 2024-11-30",
+      "total_posts": 49796
+    },
+    {
+      "cluster_id": 7,
+      "file": "cluster_7.json",
+      "size_mb": 2.81,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 121,
+      "date_range": "2024-04-01 to 2024-11-28",
+      "total_posts": 44583
+    },
+    {
+      "cluster_id": 13,
+      "file": "cluster_13.json",
+      "size_mb": 2.77,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 122,
+      "date_range": "2024-04-01 to 2024-11-30",
+      "total_posts": 78657
+    },
+    {
+      "cluster_id": 15,
+      "file": "cluster_15.json",
+      "size_mb": 2.79,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 121,
+      "date_range": "2024-04-01 to 2024-11-27",
+      "total_posts": 10002
+    },
+    {
+      "cluster_id": 30,
+      "file": "cluster_30.json",
+      "size_mb": 2.73,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 121,
+      "date_range": "2024-04-01 to 2024-11-28",
+      "total_posts": 8661
+    },
+    {
+      "cluster_id": 35,
+      "file": "cluster_35.json",
+      "size_mb": 2.72,
+      "communities": 120,
+      "edges": 4780,
+      "frames": 122,
+      "date_range": "2024-04-02 to 2024-11-30",
+      "total_posts": 12297
+    },
+    {
+      "cluster_id": 48,
+      "file": "cluster_48.json",
+      "size_mb": 2.81,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 121,
+      "date_range": "2024-04-01 to 2024-11-27",
+      "total_posts": 18420
+    },
+    {
+      "cluster_id": 51,
+      "file": "cluster_51.json",
+      "size_mb": 2.7,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 121,
+      "date_range": "2024-04-01 to 2024-11-27",
+      "total_posts": 7739
+    },
+    {
+      "cluster_id": 59,
+      "file": "cluster_59.json",
+      "size_mb": 2.72,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 122,
+      "date_range": "2024-04-01 to 2024-11-30",
+      "total_posts": 17567
+    },
+    {
+      "cluster_id": 64,
+      "file": "cluster_64.json",
+      "size_mb": 2.72,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 121,
+      "date_range": "2024-04-01 to 2024-11-27",
+      "total_posts": 18574
+    },
+    {
+      "cluster_id": 67,
+      "file": "cluster_67.json",
+      "size_mb": 2.73,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 121,
+      "date_range": "2024-04-01 to 2024-11-27",
+      "total_posts": 10140
+    },
+    {
+      "cluster_id": 71,
+      "file": "cluster_71.json",
+      "size_mb": 2.48,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 122,
+      "date_range": "2024-04-01 to 2024-11-30",
+      "total_posts": 8692
+    },
+    {
+      "cluster_id": 75,
+      "file": "cluster_75.json",
+      "size_mb": 2.74,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 120,
+      "date_range": "2024-04-01 to 2024-11-25",
+      "total_posts": 11926
+    },
+    {
+      "cluster_id": 96,
+      "file": "cluster_96.json",
+      "size_mb": 2.66,
+      "communities": 120,
+      "edges": 4851,
+      "frames": 121,
+      "date_range": "2024-04-01 to 2024-11-27",
+      "total_posts": 7754
+    },
+    {
+      "cluster_id": 97,
+      "file": "cluster_97.json",
+      "size_mb": 2.73,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 121,
+      "date_range": "2024-04-01 to 2024-11-27",
+      "total_posts": 7299
+    },
+    {
+      "cluster_id": 101,
+      "file": "cluster_101.json",
+      "size_mb": 2.74,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 122,
+      "date_range": "2024-04-01 to 2024-11-30",
+      "total_posts": 14504
+    },
+    {
+      "cluster_id": 102,
+      "file": "cluster_102.json",
+      "size_mb": 2.72,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 122,
+      "date_range": "2024-04-01 to 2024-11-30",
+      "total_posts": 7072
+    },
+    {
+      "cluster_id": 106,
+      "file": "cluster_106.json",
+      "size_mb": 2.79,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 121,
+      "date_range": "2024-04-01 to 2024-11-27",
+      "total_posts": 38445
+    },
+    {
+      "cluster_id": 125,
+      "file": "cluster_125.json",
+      "size_mb": 2.79,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 121,
+      "date_range": "2024-04-01 to 2024-11-27",
+      "total_posts": 18141
+    },
+    {
+      "cluster_id": 134,
+      "file": "cluster_134.json",
+      "size_mb": 2.74,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 122,
+      "date_range": "2024-04-01 to 2024-11-29",
+      "total_posts": 9491
+    },
+    {
+      "cluster_id": 146,
+      "file": "cluster_146.json",
+      "size_mb": 2.7,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 120,
+      "date_range": "2024-04-01 to 2024-11-25",
+      "total_posts": 39351
+    },
+    {
+      "cluster_id": 167,
+      "file": "cluster_167.json",
+      "size_mb": 2.49,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 122,
+      "date_range": "2024-04-01 to 2024-11-30",
+      "total_posts": 50528
+    },
+    {
+      "cluster_id": 169,
+      "file": "cluster_169.json",
+      "size_mb": 2.7,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 120,
+      "date_range": "2024-04-01 to 2024-11-25",
+      "total_posts": 6447
+    },
+    {
+      "cluster_id": 173,
+      "file": "cluster_173.json",
+      "size_mb": 2.77,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 120,
+      "date_range": "2024-04-01 to 2024-11-26",
+      "total_posts": 24859,
+      "narrative": "Harris staff exodus / toxic office"
+    },
+    {
+      "cluster_id": 174,
+      "file": "cluster_174.json",
+      "size_mb": 2.68,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 121,
+      "date_range": "2024-04-01 to 2024-11-27",
+      "total_posts": 6198
+    },
+    {
+      "cluster_id": 176,
+      "file": "cluster_176.json",
+      "size_mb": 2.77,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 121,
+      "date_range": "2024-04-01 to 2024-11-27",
+      "total_posts": 17476
+    },
+    {
+      "cluster_id": 188,
+      "file": "cluster_188.json",
+      "size_mb": 2.66,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 120,
+      "date_range": "2024-04-01 to 2024-11-25",
+      "total_posts": 6820
+    },
+    {
+      "cluster_id": 191,
+      "file": "cluster_191.json",
+      "size_mb": 2.8,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 121,
+      "date_range": "2024-04-01 to 2024-11-27",
+      "total_posts": 14358
+    },
+    {
+      "cluster_id": 198,
+      "file": "cluster_198.json",
+      "size_mb": 2.7,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 122,
+      "date_range": "2024-04-01 to 2024-11-30",
+      "total_posts": 6283
+    },
+    {
+      "cluster_id": 206,
+      "file": "cluster_206.json",
+      "size_mb": 2.8,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 121,
+      "date_range": "2024-04-01 to 2024-11-27",
+      "total_posts": 22770
+    },
+    {
+      "cluster_id": 242,
+      "file": "cluster_242.json",
+      "size_mb": 2.73,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 121,
+      "date_range": "2024-04-01 to 2024-11-27",
+      "total_posts": 11332
+    },
+    {
+      "cluster_id": 267,
+      "file": "cluster_267.json",
+      "size_mb": 2.78,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 122,
+      "date_range": "2024-04-01 to 2024-11-30",
+      "total_posts": 55300
+    },
+    {
+      "cluster_id": 284,
+      "file": "cluster_284.json",
+      "size_mb": 2.75,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 121,
+      "date_range": "2024-04-01 to 2024-11-27",
+      "total_posts": 23609
+    },
+    {
+      "cluster_id": 298,
+      "file": "cluster_298.json",
+      "size_mb": 2.73,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 121,
+      "date_range": "2024-04-01 to 2024-11-28",
+      "total_posts": 9031
+    },
+    {
+      "cluster_id": 301,
+      "file": "cluster_301.json",
+      "size_mb": 2.74,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 121,
+      "date_range": "2024-04-01 to 2024-11-28",
+      "total_posts": 11971
+    },
+    {
+      "cluster_id": 340,
+      "file": "cluster_340.json",
+      "size_mb": 2.77,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 122,
+      "date_range": "2024-04-01 to 2024-11-30",
+      "total_posts": 9653
+    },
+    {
+      "cluster_id": 370,
+      "file": "cluster_370.json",
+      "size_mb": 2.7,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 120,
+      "date_range": "2024-04-01 to 2024-11-26",
+      "total_posts": 9054
+    },
+    {
+      "cluster_id": 374,
+      "file": "cluster_374.json",
+      "size_mb": 2.74,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 122,
+      "date_range": "2024-04-01 to 2024-11-30",
+      "total_posts": 11590
+    },
+    {
+      "cluster_id": 377,
+      "file": "cluster_377.json",
+      "size_mb": 2.72,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 120,
+      "date_range": "2024-04-01 to 2024-11-26",
+      "total_posts": 9527
+    },
+    {
+      "cluster_id": 408,
+      "file": "cluster_408.json",
+      "size_mb": 2.75,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 122,
+      "date_range": "2024-04-01 to 2024-11-30",
+      "total_posts": 78868
+    },
+    {
+      "cluster_id": 419,
+      "file": "cluster_419.json",
+      "size_mb": 2.78,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 121,
+      "date_range": "2024-04-01 to 2024-11-27",
+      "total_posts": 13370
+    },
+    {
+      "cluster_id": 432,
+      "file": "cluster_432.json",
+      "size_mb": 2.73,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 121,
+      "date_range": "2024-04-01 to 2024-11-28",
+      "total_posts": 16511
+    },
+    {
+      "cluster_id": 443,
+      "file": "cluster_443.json",
+      "size_mb": 2.53,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 122,
+      "date_range": "2024-04-01 to 2024-11-30",
+      "total_posts": 10475
+    },
+    {
+      "cluster_id": 453,
+      "file": "cluster_453.json",
+      "size_mb": 2.72,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 122,
+      "date_range": "2024-04-01 to 2024-11-29",
+      "total_posts": 9609
+    },
+    {
+      "cluster_id": 454,
+      "file": "cluster_454.json",
+      "size_mb": 2.55,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 120,
+      "date_range": "2024-04-02 to 2024-11-27",
+      "total_posts": 9427
+    },
+    {
+      "cluster_id": 457,
+      "file": "cluster_457.json",
+      "size_mb": 2.68,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 122,
+      "date_range": "2024-04-01 to 2024-11-30",
+      "total_posts": 6468
+    },
+    {
+      "cluster_id": 459,
+      "file": "cluster_459.json",
+      "size_mb": 2.68,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 122,
+      "date_range": "2024-04-01 to 2024-11-30",
+      "total_posts": 10685
+    },
+    {
+      "cluster_id": 469,
+      "file": "cluster_469.json",
+      "size_mb": 2.72,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 120,
+      "date_range": "2024-04-01 to 2024-11-25",
+      "total_posts": 9004
+    },
+    {
+      "cluster_id": 474,
+      "file": "cluster_474.json",
+      "size_mb": 2.76,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 121,
+      "date_range": "2024-04-01 to 2024-11-27",
+      "total_posts": 11106
+    },
+    {
+      "cluster_id": 483,
+      "file": "cluster_483.json",
+      "size_mb": 2.67,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 120,
+      "date_range": "2024-04-02 to 2024-11-27",
+      "total_posts": 8011
+    },
+    {
+      "cluster_id": 495,
+      "file": "cluster_495.json",
+      "size_mb": 2.73,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 120,
+      "date_range": "2024-04-01 to 2024-11-26",
+      "total_posts": 15038
+    },
+    {
+      "cluster_id": 507,
+      "file": "cluster_507.json",
+      "size_mb": 2.7,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 122,
+      "date_range": "2024-04-01 to 2024-11-30",
+      "total_posts": 6791
+    },
+    {
+      "cluster_id": 565,
+      "file": "cluster_565.json",
+      "size_mb": 2.58,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 116,
+      "date_range": "2024-04-02 to 2024-11-18",
+      "total_posts": 20457
+    },
+    {
+      "cluster_id": 572,
+      "file": "cluster_572.json",
+      "size_mb": 2.57,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 122,
+      "date_range": "2024-04-01 to 2024-11-30",
+      "total_posts": 9067
+    },
+    {
+      "cluster_id": 583,
+      "file": "cluster_583.json",
+      "size_mb": 2.77,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 122,
+      "date_range": "2024-04-01 to 2024-11-30",
+      "total_posts": 8718
+    },
+    {
+      "cluster_id": 585,
+      "file": "cluster_585.json",
+      "size_mb": 2.78,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 122,
+      "date_range": "2024-04-01 to 2024-11-30",
+      "total_posts": 13547
+    },
+    {
+      "cluster_id": 668,
+      "file": "cluster_668.json",
+      "size_mb": 2.82,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 122,
+      "date_range": "2024-04-01 to 2024-11-30",
+      "total_posts": 34294
+    },
+    {
+      "cluster_id": 669,
+      "file": "cluster_669.json",
+      "size_mb": 2.7,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 122,
+      "date_range": "2024-04-01 to 2024-11-30",
+      "total_posts": 6320
+    },
+    {
+      "cluster_id": 681,
+      "file": "cluster_681.json",
+      "size_mb": 2.65,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 122,
+      "date_range": "2024-04-01 to 2024-11-30",
+      "total_posts": 25897,
+      "narrative": "Child sex-trafficking / moral panic"
+    },
+    {
+      "cluster_id": 685,
+      "file": "cluster_685.json",
+      "size_mb": 2.82,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 122,
+      "date_range": "2024-04-01 to 2024-11-30",
+      "total_posts": 28612,
+      "narrative": "Child sex-trafficking / Save Our Children tie-in"
+    },
+    {
+      "cluster_id": 697,
+      "file": "cluster_697.json",
+      "size_mb": 2.64,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 122,
+      "date_range": "2024-04-01 to 2024-11-29",
+      "total_posts": 9673
+    },
+    {
+      "cluster_id": 751,
+      "file": "cluster_751.json",
+      "size_mb": 2.76,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 122,
+      "date_range": "2024-04-01 to 2024-11-30",
+      "total_posts": 13026
+    },
+    {
+      "cluster_id": 781,
+      "file": "cluster_781.json",
+      "size_mb": 2.38,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 122,
+      "date_range": "2024-04-01 to 2024-11-30",
+      "total_posts": 8418
+    },
+    {
+      "cluster_id": 799,
+      "file": "cluster_799.json",
+      "size_mb": 2.65,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 119,
+      "date_range": "2024-04-01 to 2024-11-24",
+      "total_posts": 8642
+    },
+    {
+      "cluster_id": 807,
+      "file": "cluster_807.json",
+      "size_mb": 2.73,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 121,
+      "date_range": "2024-04-01 to 2024-11-27",
+      "total_posts": 12612
+    },
+    {
+      "cluster_id": 813,
+      "file": "cluster_813.json",
+      "size_mb": 2.62,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 122,
+      "date_range": "2024-04-01 to 2024-11-29",
+      "total_posts": 30109
+    },
+    {
+      "cluster_id": 817,
+      "file": "cluster_817.json",
+      "size_mb": 2.7,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 121,
+      "date_range": "2024-04-01 to 2024-11-27",
+      "total_posts": 6282
+    },
+    {
+      "cluster_id": 837,
+      "file": "cluster_837.json",
+      "size_mb": 2.59,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 122,
+      "date_range": "2024-04-01 to 2024-11-30",
+      "total_posts": 14923
+    },
+    {
+      "cluster_id": 851,
+      "file": "cluster_851.json",
+      "size_mb": 2.68,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 120,
+      "date_range": "2024-04-01 to 2024-11-26",
+      "total_posts": 20525
+    },
+    {
+      "cluster_id": 867,
+      "file": "cluster_867.json",
+      "size_mb": 2.41,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 122,
+      "date_range": "2024-04-01 to 2024-11-30",
+      "total_posts": 12287
+    },
+    {
+      "cluster_id": 889,
+      "file": "cluster_889.json",
+      "size_mb": 2.62,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 122,
+      "date_range": "2024-04-02 to 2024-11-30",
+      "total_posts": 7572
+    },
+    {
+      "cluster_id": 907,
+      "file": "cluster_907.json",
+      "size_mb": 2.71,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 122,
+      "date_range": "2024-04-01 to 2024-11-30",
+      "total_posts": 19883
+    },
+    {
+      "cluster_id": 926,
+      "file": "cluster_926.json",
+      "size_mb": 2.69,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 120,
+      "date_range": "2024-04-02 to 2024-11-27",
+      "total_posts": 6862
+    },
+    {
+      "cluster_id": 978,
+      "file": "cluster_978.json",
+      "size_mb": 2.73,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 121,
+      "date_range": "2024-04-01 to 2024-11-27",
+      "total_posts": 22069
+    },
+    {
+      "cluster_id": 983,
+      "file": "cluster_983.json",
+      "size_mb": 2.75,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 122,
+      "date_range": "2024-04-01 to 2024-11-30",
+      "total_posts": 14634
+    },
+    {
+      "cluster_id": 1009,
+      "file": "cluster_1009.json",
+      "size_mb": 2.74,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 121,
+      "date_range": "2024-04-01 to 2024-11-27",
+      "total_posts": 17414
+    },
+    {
+      "cluster_id": 1018,
+      "file": "cluster_1018.json",
+      "size_mb": 2.23,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 119,
+      "date_range": "2024-04-01 to 2024-11-24",
+      "total_posts": 9411
+    },
+    {
+      "cluster_id": 1036,
+      "file": "cluster_1036.json",
+      "size_mb": 2.73,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 122,
+      "date_range": "2024-04-01 to 2024-11-30",
+      "total_posts": 15321
+    },
+    {
+      "cluster_id": 1037,
+      "file": "cluster_1037.json",
+      "size_mb": 2.57,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 122,
+      "date_range": "2024-04-01 to 2024-11-30",
+      "total_posts": 6726
+    },
+    {
+      "cluster_id": 1065,
+      "file": "cluster_1065.json",
+      "size_mb": 2.81,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 122,
+      "date_range": "2024-04-01 to 2024-11-30",
+      "total_posts": 24789,
+      "narrative": "Child sex-trafficking / 'save the children' surge"
+    },
+    {
+      "cluster_id": 1070,
+      "file": "cluster_1070.json",
+      "size_mb": 2.72,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 122,
+      "date_range": "2024-04-01 to 2024-11-30",
+      "total_posts": 14184
+    },
+    {
+      "cluster_id": 1071,
+      "file": "cluster_1071.json",
+      "size_mb": 2.73,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 121,
+      "date_range": "2024-04-02 to 2024-11-28",
+      "total_posts": 10030
+    },
+    {
+      "cluster_id": 1097,
+      "file": "cluster_1097.json",
+      "size_mb": 2.62,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 122,
+      "date_range": "2024-04-01 to 2024-11-30",
+      "total_posts": 11489
+    },
+    {
+      "cluster_id": 1111,
+      "file": "cluster_1111.json",
+      "size_mb": 2.67,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 121,
+      "date_range": "2024-04-01 to 2024-11-27",
+      "total_posts": 28848,
+      "narrative": "Harris staff exodus / toxic office echo"
+    },
+    {
+      "cluster_id": 1132,
+      "file": "cluster_1132.json",
+      "size_mb": 2.53,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 119,
+      "date_range": "2024-04-01 to 2024-11-23",
+      "total_posts": 15030
+    },
+    {
+      "cluster_id": 1158,
+      "file": "cluster_1158.json",
+      "size_mb": 2.74,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 122,
+      "date_range": "2024-04-01 to 2024-11-30",
+      "total_posts": 28623,
+      "narrative": "Russia disinformation / collusion flip"
+    },
+    {
+      "cluster_id": 1174,
+      "file": "cluster_1174.json",
+      "size_mb": 2.71,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 122,
+      "date_range": "2024-04-01 to 2024-11-30",
+      "total_posts": 9655
+    },
+    {
+      "cluster_id": 1202,
+      "file": "cluster_1202.json",
+      "size_mb": 2.74,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 122,
+      "date_range": "2024-04-02 to 2024-11-30",
+      "total_posts": 6736
+    },
+    {
+      "cluster_id": 1208,
+      "file": "cluster_1208.json",
+      "size_mb": 2.46,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 121,
+      "date_range": "2024-04-01 to 2024-11-27",
+      "total_posts": 8727
+    },
+    {
+      "cluster_id": 1222,
+      "file": "cluster_1222.json",
+      "size_mb": 2.51,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 122,
+      "date_range": "2024-04-01 to 2024-11-30",
+      "total_posts": 6509
+    },
+    {
+      "cluster_id": 1232,
+      "file": "cluster_1232.json",
+      "size_mb": 2.71,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 122,
+      "date_range": "2024-04-01 to 2024-11-30",
+      "total_posts": 6438
+    },
+    {
+      "cluster_id": 1264,
+      "file": "cluster_1264.json",
+      "size_mb": 2.37,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 117,
+      "date_range": "2024-04-02 to 2024-11-20",
+      "total_posts": 8672
+    },
+    {
+      "cluster_id": 1269,
+      "file": "cluster_1269.json",
+      "size_mb": 2.72,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 120,
+      "date_range": "2024-04-01 to 2024-11-26",
+      "total_posts": 12687
+    },
+    {
+      "cluster_id": 1291,
+      "file": "cluster_1291.json",
+      "size_mb": 2.75,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 122,
+      "date_range": "2024-04-01 to 2024-11-30",
+      "total_posts": 20018
+    },
+    {
+      "cluster_id": 1330,
+      "file": "cluster_1330.json",
+      "size_mb": 2.71,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 121,
+      "date_range": "2024-04-01 to 2024-11-27",
+      "total_posts": 15134
+    },
+    {
+      "cluster_id": 1343,
+      "file": "cluster_1343.json",
+      "size_mb": 2.64,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 122,
+      "date_range": "2024-04-01 to 2024-11-30",
+      "total_posts": 15615
+    },
+    {
+      "cluster_id": 1376,
+      "file": "cluster_1376.json",
+      "size_mb": 2.11,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 118,
+      "date_range": "2024-04-05 to 2024-11-26",
+      "total_posts": 6435
+    },
+    {
+      "cluster_id": 1392,
+      "file": "cluster_1392.json",
+      "size_mb": 1.59,
+      "communities": 120,
+      "edges": 4948,
+      "frames": 107,
+      "date_range": "2024-04-08 to 2024-11-07",
+      "total_posts": 3270
+    },
+    {
+      "cluster_id": 1402,
+      "file": "cluster_1402.json",
+      "size_mb": 2.58,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 122,
+      "date_range": "2024-04-01 to 2024-11-30",
+      "total_posts": 3888
+    },
+    {
+      "cluster_id": 1428,
+      "file": "cluster_1428.json",
+      "size_mb": 2.76,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 122,
+      "date_range": "2024-04-01 to 2024-11-30",
+      "total_posts": 15101
+    },
+    {
+      "cluster_id": 1453,
+      "file": "cluster_1453.json",
+      "size_mb": 2.71,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 122,
+      "date_range": "2024-04-01 to 2024-11-30",
+      "total_posts": 6590
+    },
+    {
+      "cluster_id": 1456,
+      "file": "cluster_1456.json",
+      "size_mb": 2.7,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 120,
+      "date_range": "2024-04-01 to 2024-11-26",
+      "total_posts": 3707
+    },
+    {
+      "cluster_id": 1459,
+      "file": "cluster_1459.json",
+      "size_mb": 2.56,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 121,
+      "date_range": "2024-04-02 to 2024-11-29",
+      "total_posts": 3090
+    },
+    {
+      "cluster_id": 1462,
+      "file": "cluster_1462.json",
+      "size_mb": 2.79,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 122,
+      "date_range": "2024-04-01 to 2024-11-30",
+      "total_posts": 10987
+    },
+    {
+      "cluster_id": 1575,
+      "file": "cluster_1575.json",
+      "size_mb": 2.55,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 121,
+      "date_range": "2024-04-01 to 2024-11-27",
+      "total_posts": 2936
+    },
+    {
+      "cluster_id": 1598,
+      "file": "cluster_1598.json",
+      "size_mb": 2.69,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 121,
+      "date_range": "2024-04-01 to 2024-11-27",
+      "total_posts": 6231
+    },
+    {
+      "cluster_id": 1635,
+      "file": "cluster_1635.json",
+      "size_mb": 2.66,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 122,
+      "date_range": "2024-04-01 to 2024-11-29",
+      "total_posts": 3122
+    },
+    {
+      "cluster_id": 1651,
+      "file": "cluster_1651.json",
+      "size_mb": 2.01,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 120,
+      "date_range": "2024-04-02 to 2024-11-26",
+      "total_posts": 524
+    },
+    {
+      "cluster_id": 1660,
+      "file": "cluster_1660.json",
+      "size_mb": 2.7,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 119,
+      "date_range": "2024-04-01 to 2024-11-23",
+      "total_posts": 9933
+    },
+    {
+      "cluster_id": 1674,
+      "file": "cluster_1674.json",
+      "size_mb": 2.81,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 122,
+      "date_range": "2024-04-01 to 2024-11-30",
+      "total_posts": 28100,
+      "narrative": "Wuhan lab + bioweapons / U.S.\u2013China collab"
+    },
+    {
+      "cluster_id": 1677,
+      "file": "cluster_1677.json",
+      "size_mb": 2.64,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 122,
+      "date_range": "2024-04-01 to 2024-11-30",
+      "total_posts": 9969
+    },
+    {
+      "cluster_id": 1680,
+      "file": "cluster_1680.json",
+      "size_mb": 2.68,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 120,
+      "date_range": "2024-04-02 to 2024-11-27",
+      "total_posts": 6713
+    },
+    {
+      "cluster_id": 1707,
+      "file": "cluster_1707.json",
+      "size_mb": 2.66,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 121,
+      "date_range": "2024-04-01 to 2024-11-27",
+      "total_posts": 7720
+    },
+    {
+      "cluster_id": 1740,
+      "file": "cluster_1740.json",
+      "size_mb": 2.57,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 122,
+      "date_range": "2024-04-01 to 2024-11-30",
+      "total_posts": 9039
+    },
+    {
+      "cluster_id": 1755,
+      "file": "cluster_1755.json",
+      "size_mb": 2.34,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 119,
+      "date_range": "2024-04-07 to 2024-11-29",
+      "total_posts": 17793
+    },
+    {
+      "cluster_id": 1786,
+      "file": "cluster_1786.json",
+      "size_mb": 2.71,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 121,
+      "date_range": "2024-04-01 to 2024-11-28",
+      "total_posts": 14176
+    },
+    {
+      "cluster_id": 1797,
+      "file": "cluster_1797.json",
+      "size_mb": 2.43,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 120,
+      "date_range": "2024-04-02 to 2024-11-27",
+      "total_posts": 2400
+    },
+    {
+      "cluster_id": 1852,
+      "file": "cluster_1852.json",
+      "size_mb": 2.67,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 118,
+      "date_range": "2024-04-02 to 2024-11-22",
+      "total_posts": 5473
+    },
+    {
+      "cluster_id": 1861,
+      "file": "cluster_1861.json",
+      "size_mb": 2.67,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 120,
+      "date_range": "2024-04-01 to 2024-11-26",
+      "total_posts": 11229
+    },
+    {
+      "cluster_id": 1903,
+      "file": "cluster_1903.json",
+      "size_mb": 2.75,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 121,
+      "date_range": "2024-04-01 to 2024-11-27",
+      "total_posts": 17916
+    },
+    {
+      "cluster_id": 1921,
+      "file": "cluster_1921.json",
+      "size_mb": 2.73,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 122,
+      "date_range": "2024-04-01 to 2024-11-30",
+      "total_posts": 9234
+    },
+    {
+      "cluster_id": 1923,
+      "file": "cluster_1923.json",
+      "size_mb": 2.78,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 120,
+      "date_range": "2024-04-01 to 2024-11-26",
+      "total_posts": 23390
+    },
+    {
+      "cluster_id": 1932,
+      "file": "cluster_1932.json",
+      "size_mb": 2.68,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 120,
+      "date_range": "2024-04-01 to 2024-11-26",
+      "total_posts": 5476
+    },
+    {
+      "cluster_id": 1938,
+      "file": "cluster_1938.json",
+      "size_mb": 2.38,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 121,
+      "date_range": "2024-04-02 to 2024-11-29",
+      "total_posts": 1547
+    },
+    {
+      "cluster_id": 1955,
+      "file": "cluster_1955.json",
+      "size_mb": 2.77,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 119,
+      "date_range": "2024-04-01 to 2024-11-23",
+      "total_posts": 16860
+    },
+    {
+      "cluster_id": 1965,
+      "file": "cluster_1965.json",
+      "size_mb": 2.66,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 120,
+      "date_range": "2024-04-02 to 2024-11-26",
+      "total_posts": 12799
+    },
+    {
+      "cluster_id": 1984,
+      "file": "cluster_1984.json",
+      "size_mb": 2.54,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 120,
+      "date_range": "2024-04-02 to 2024-11-27",
+      "total_posts": 10982
+    },
+    {
+      "cluster_id": 1987,
+      "file": "cluster_1987.json",
+      "size_mb": 2.74,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 120,
+      "date_range": "2024-04-01 to 2024-11-25",
+      "total_posts": 16667
+    },
+    {
+      "cluster_id": 2023,
+      "file": "cluster_2023.json",
+      "size_mb": 2.71,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 122,
+      "date_range": "2024-04-01 to 2024-11-30",
+      "total_posts": 8986
+    },
+    {
+      "cluster_id": 2033,
+      "file": "cluster_2033.json",
+      "size_mb": 2.72,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 120,
+      "date_range": "2024-04-01 to 2024-11-26",
+      "total_posts": 11402
+    },
+    {
+      "cluster_id": 2066,
+      "file": "cluster_2066.json",
+      "size_mb": 2.47,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 120,
+      "date_range": "2024-04-02 to 2024-11-27",
+      "total_posts": 44492
+    },
+    {
+      "cluster_id": 2069,
+      "file": "cluster_2069.json",
+      "size_mb": 2.61,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 119,
+      "date_range": "2024-04-02 to 2024-11-25",
+      "total_posts": 6478
+    },
+    {
+      "cluster_id": 2113,
+      "file": "cluster_2113.json",
+      "size_mb": 2.65,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 118,
+      "date_range": "2024-04-02 to 2024-11-22",
+      "total_posts": 7191
+    },
+    {
+      "cluster_id": 2225,
+      "file": "cluster_2225.json",
+      "size_mb": 2.5,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 121,
+      "date_range": "2024-04-01 to 2024-11-28",
+      "total_posts": 8647
+    },
+    {
+      "cluster_id": 2241,
+      "file": "cluster_2241.json",
+      "size_mb": 2.63,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 121,
+      "date_range": "2024-04-01 to 2024-11-27",
+      "total_posts": 7379
+    },
+    {
+      "cluster_id": 2258,
+      "file": "cluster_2258.json",
+      "size_mb": 2.73,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 121,
+      "date_range": "2024-04-01 to 2024-11-28",
+      "total_posts": 8097
+    },
+    {
+      "cluster_id": 2314,
+      "file": "cluster_2314.json",
+      "size_mb": 2.71,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 120,
+      "date_range": "2024-04-01 to 2024-11-26",
+      "total_posts": 10076
+    },
+    {
+      "cluster_id": 2336,
+      "file": "cluster_2336.json",
+      "size_mb": 2.63,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 117,
+      "date_range": "2024-04-03 to 2024-11-22",
+      "total_posts": 6663
+    },
+    {
+      "cluster_id": 2363,
+      "file": "cluster_2363.json",
+      "size_mb": 2.74,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 121,
+      "date_range": "2024-04-01 to 2024-11-27",
+      "total_posts": 11756
+    },
+    {
+      "cluster_id": 2378,
+      "file": "cluster_2378.json",
+      "size_mb": 2.71,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 122,
+      "date_range": "2024-04-01 to 2024-11-30",
+      "total_posts": 37633
+    },
+    {
+      "cluster_id": 2388,
+      "file": "cluster_2388.json",
+      "size_mb": 2.83,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 122,
+      "date_range": "2024-04-01 to 2024-11-30",
+      "total_posts": 40895
+    },
+    {
+      "cluster_id": 2423,
+      "file": "cluster_2423.json",
+      "size_mb": 2.65,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 117,
+      "date_range": "2024-04-01 to 2024-11-19",
+      "total_posts": 12347
+    },
+    {
+      "cluster_id": 2435,
+      "file": "cluster_2435.json",
+      "size_mb": 2.79,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 121,
+      "date_range": "2024-04-01 to 2024-11-27",
+      "total_posts": 19100
+    },
+    {
+      "cluster_id": 2471,
+      "file": "cluster_2471.json",
+      "size_mb": 2.0,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 117,
+      "date_range": "2024-04-08 to 2024-11-26",
+      "total_posts": 13596
+    },
+    {
+      "cluster_id": 2477,
+      "file": "cluster_2477.json",
+      "size_mb": 2.6,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 122,
+      "date_range": "2024-04-01 to 2024-11-30",
+      "total_posts": 64246
+    },
+    {
+      "cluster_id": 2485,
+      "file": "cluster_2485.json",
+      "size_mb": 2.74,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 121,
+      "date_range": "2024-04-01 to 2024-11-27",
+      "total_posts": 15784
+    },
+    {
+      "cluster_id": 2550,
+      "file": "cluster_2550.json",
+      "size_mb": 2.74,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 119,
+      "date_range": "2024-04-01 to 2024-11-24",
+      "total_posts": 26685,
+      "narrative": "Deep state / purge government / drain the swamp"
+    },
+    {
+      "cluster_id": 2621,
+      "file": "cluster_2621.json",
+      "size_mb": 2.67,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 121,
+      "date_range": "2024-04-01 to 2024-11-27",
+      "total_posts": 6231
+    },
+    {
+      "cluster_id": 2718,
+      "file": "cluster_2718.json",
+      "size_mb": 2.65,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 119,
+      "date_range": "2024-04-02 to 2024-11-24",
+      "total_posts": 12519
+    },
+    {
+      "cluster_id": 2775,
+      "file": "cluster_2775.json",
+      "size_mb": 2.72,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 121,
+      "date_range": "2024-04-01 to 2024-11-28",
+      "total_posts": 6631
+    },
+    {
+      "cluster_id": 2840,
+      "file": "cluster_2840.json",
+      "size_mb": 2.68,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 122,
+      "date_range": "2024-04-01 to 2024-11-30",
+      "total_posts": 11826
+    },
+    {
+      "cluster_id": 2843,
+      "file": "cluster_2843.json",
+      "size_mb": 2.79,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 122,
+      "date_range": "2024-04-01 to 2024-11-30",
+      "total_posts": 21521
+    },
+    {
+      "cluster_id": 2962,
+      "file": "cluster_2962.json",
+      "size_mb": 2.67,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 120,
+      "date_range": "2024-04-01 to 2024-11-25",
+      "total_posts": 8630
+    },
+    {
+      "cluster_id": 2965,
+      "file": "cluster_2965.json",
+      "size_mb": 2.59,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 122,
+      "date_range": "2024-04-01 to 2024-11-30",
+      "total_posts": 16570
+    },
+    {
+      "cluster_id": 2966,
+      "file": "cluster_2966.json",
+      "size_mb": 2.75,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 121,
+      "date_range": "2024-04-01 to 2024-11-27",
+      "total_posts": 22718
+    },
+    {
+      "cluster_id": 2968,
+      "file": "cluster_2968.json",
+      "size_mb": 2.73,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 121,
+      "date_range": "2024-04-01 to 2024-11-27",
+      "total_posts": 22609
+    },
+    {
+      "cluster_id": 2969,
+      "file": "cluster_2969.json",
+      "size_mb": 2.7,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 122,
+      "date_range": "2024-04-01 to 2024-11-30",
+      "total_posts": 9420
+    },
+    {
+      "cluster_id": 2974,
+      "file": "cluster_2974.json",
+      "size_mb": 2.67,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 122,
+      "date_range": "2024-04-01 to 2024-11-30",
+      "total_posts": 8200
+    },
+    {
+      "cluster_id": 3019,
+      "file": "cluster_3019.json",
+      "size_mb": 2.73,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 122,
+      "date_range": "2024-04-01 to 2024-11-30",
+      "total_posts": 27046,
+      "narrative": "SAVE Act / foreign voters / election integrity"
+    },
+    {
+      "cluster_id": 3039,
+      "file": "cluster_3039.json",
+      "size_mb": 2.7,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 122,
+      "date_range": "2024-04-01 to 2024-11-30",
+      "total_posts": 22499
+    },
+    {
+      "cluster_id": 3119,
+      "file": "cluster_3119.json",
+      "size_mb": 2.7,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 121,
+      "date_range": "2024-04-01 to 2024-11-27",
+      "total_posts": 10365
+    },
+    {
+      "cluster_id": 3139,
+      "file": "cluster_3139.json",
+      "size_mb": 2.7,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 121,
+      "date_range": "2024-04-01 to 2024-11-28",
+      "total_posts": 7247
+    },
+    {
+      "cluster_id": 3143,
+      "file": "cluster_3143.json",
+      "size_mb": 2.67,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 122,
+      "date_range": "2024-04-01 to 2024-11-30",
+      "total_posts": 20806
+    },
+    {
+      "cluster_id": 3168,
+      "file": "cluster_3168.json",
+      "size_mb": 2.53,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 116,
+      "date_range": "2024-04-01 to 2024-11-17",
+      "total_posts": 7658
+    },
+    {
+      "cluster_id": 3201,
+      "file": "cluster_3201.json",
+      "size_mb": 2.76,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 121,
+      "date_range": "2024-04-01 to 2024-11-27",
+      "total_posts": 15229
+    },
+    {
+      "cluster_id": 3221,
+      "file": "cluster_3221.json",
+      "size_mb": 2.8,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 122,
+      "date_range": "2024-04-01 to 2024-11-30",
+      "total_posts": 16292
+    },
+    {
+      "cluster_id": 3231,
+      "file": "cluster_3231.json",
+      "size_mb": 2.79,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 122,
+      "date_range": "2024-04-01 to 2024-11-30",
+      "total_posts": 29302
+    },
+    {
+      "cluster_id": 3242,
+      "file": "cluster_3242.json",
+      "size_mb": 2.62,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 119,
+      "date_range": "2024-04-01 to 2024-11-23",
+      "total_posts": 13679
+    },
+    {
+      "cluster_id": 3262,
+      "file": "cluster_3262.json",
+      "size_mb": 2.29,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 115,
+      "date_range": "2024-04-04 to 2024-11-19",
+      "total_posts": 6448
+    },
+    {
+      "cluster_id": 3266,
+      "file": "cluster_3266.json",
+      "size_mb": 2.66,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 122,
+      "date_range": "2024-04-01 to 2024-11-30",
+      "total_posts": 8035
+    },
+    {
+      "cluster_id": 3282,
+      "file": "cluster_3282.json",
+      "size_mb": 2.79,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 122,
+      "date_range": "2024-04-01 to 2024-11-30",
+      "total_posts": 34353
+    },
+    {
+      "cluster_id": 3321,
+      "file": "cluster_3321.json",
+      "size_mb": 2.68,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 121,
+      "date_range": "2024-04-01 to 2024-11-27",
+      "total_posts": 7322
+    },
+    {
+      "cluster_id": 3326,
+      "file": "cluster_3326.json",
+      "size_mb": 2.63,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 122,
+      "date_range": "2024-04-01 to 2024-11-30",
+      "total_posts": 13184
+    },
+    {
+      "cluster_id": 3330,
+      "file": "cluster_3330.json",
+      "size_mb": 2.56,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 120,
+      "date_range": "2024-04-02 to 2024-11-26",
+      "total_posts": 7477
+    },
+    {
+      "cluster_id": 3360,
+      "file": "cluster_3360.json",
+      "size_mb": 2.51,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 117,
+      "date_range": "2024-04-02 to 2024-11-20",
+      "total_posts": 7829
+    },
+    {
+      "cluster_id": 3361,
+      "file": "cluster_3361.json",
+      "size_mb": 2.06,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 122,
+      "date_range": "2024-04-01 to 2024-11-30",
+      "total_posts": 34138
+    },
+    {
+      "cluster_id": 3390,
+      "file": "cluster_3390.json",
+      "size_mb": 2.72,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 122,
+      "date_range": "2024-04-01 to 2024-11-29",
+      "total_posts": 8474
+    },
+    {
+      "cluster_id": 3444,
+      "file": "cluster_3444.json",
+      "size_mb": 2.59,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 121,
+      "date_range": "2024-04-01 to 2024-11-27",
+      "total_posts": 6429
+    },
+    {
+      "cluster_id": 3511,
+      "file": "cluster_3511.json",
+      "size_mb": 2.63,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 117,
+      "date_range": "2024-04-02 to 2024-11-20",
+      "total_posts": 6188
+    },
+    {
+      "cluster_id": 3585,
+      "file": "cluster_3585.json",
+      "size_mb": 2.6,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 120,
+      "date_range": "2024-04-01 to 2024-11-26",
+      "total_posts": 11139
+    },
+    {
+      "cluster_id": 3593,
+      "file": "cluster_3593.json",
+      "size_mb": 2.64,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 120,
+      "date_range": "2024-04-01 to 2024-11-26",
+      "total_posts": 9139
+    },
+    {
+      "cluster_id": 3649,
+      "file": "cluster_3649.json",
+      "size_mb": 2.62,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 120,
+      "date_range": "2024-04-01 to 2024-11-26",
+      "total_posts": 9087
+    },
+    {
+      "cluster_id": 3658,
+      "file": "cluster_3658.json",
+      "size_mb": 2.67,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 120,
+      "date_range": "2024-04-01 to 2024-11-26",
+      "total_posts": 14897
+    },
+    {
+      "cluster_id": 3685,
+      "file": "cluster_3685.json",
+      "size_mb": 2.58,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 118,
+      "date_range": "2024-04-03 to 2024-11-24",
+      "total_posts": 7910
+    },
+    {
+      "cluster_id": 3712,
+      "file": "cluster_3712.json",
+      "size_mb": 2.5,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 122,
+      "date_range": "2024-04-01 to 2024-11-30",
+      "total_posts": 6294
+    },
+    {
+      "cluster_id": 3762,
+      "file": "cluster_3762.json",
+      "size_mb": 2.64,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 120,
+      "date_range": "2024-04-02 to 2024-11-27",
+      "total_posts": 7254
+    },
+    {
+      "cluster_id": 3931,
+      "file": "cluster_3931.json",
+      "size_mb": 2.32,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 122,
+      "date_range": "2024-04-01 to 2024-11-30",
+      "total_posts": 106559
+    },
+    {
+      "cluster_id": 3982,
+      "file": "cluster_3982.json",
+      "size_mb": 2.69,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 120,
+      "date_range": "2024-04-01 to 2024-11-25",
+      "total_posts": 7616
+    },
+    {
+      "cluster_id": 4017,
+      "file": "cluster_4017.json",
+      "size_mb": 2.77,
+      "communities": 120,
+      "edges": 4870,
+      "frames": 122,
+      "date_range": "2024-04-01 to 2024-11-30",
+      "total_posts": 17853
+    },
+    {
+      "cluster_id": 4084,
+      "file": "cluster_4084.json",
+      "size_mb": 2.17,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 117,
+      "date_range": "2024-04-07 to 2024-11-25",
+      "total_posts": 8208
+    },
+    {
+      "cluster_id": 4107,
+      "file": "cluster_4107.json",
+      "size_mb": 2.78,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 121,
+      "date_range": "2024-04-01 to 2024-11-27",
+      "total_posts": 28161,
+      "narrative": "Trump winning / poll momentum meta-narrative"
+    },
+    {
+      "cluster_id": 4366,
+      "file": "cluster_4366.json",
+      "size_mb": 2.62,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 122,
+      "date_range": "2024-04-01 to 2024-11-30",
+      "total_posts": 7345
+    },
+    {
+      "cluster_id": 4422,
+      "file": "cluster_4422.json",
+      "size_mb": 2.72,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 120,
+      "date_range": "2024-04-01 to 2024-11-26",
+      "total_posts": 6229
+    },
+    {
+      "cluster_id": 4437,
+      "file": "cluster_4437.json",
+      "size_mb": 2.64,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 118,
+      "date_range": "2024-04-01 to 2024-11-22",
+      "total_posts": 8141
+    },
+    {
+      "cluster_id": 4494,
+      "file": "cluster_4494.json",
+      "size_mb": 2.75,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 121,
+      "date_range": "2024-04-01 to 2024-11-27",
+      "total_posts": 8664
+    },
+    {
+      "cluster_id": 4503,
+      "file": "cluster_4503.json",
+      "size_mb": 2.11,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 122,
+      "date_range": "2024-04-01 to 2024-11-30",
+      "total_posts": 3075
+    },
+    {
+      "cluster_id": 4534,
+      "file": "cluster_4534.json",
+      "size_mb": 2.63,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 121,
+      "date_range": "2024-04-01 to 2024-11-27",
+      "total_posts": 8004
+    },
+    {
+      "cluster_id": 4662,
+      "file": "cluster_4662.json",
+      "size_mb": 2.13,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 119,
+      "date_range": "2024-04-04 to 2024-11-27",
+      "total_posts": 8733
+    },
+    {
+      "cluster_id": 4708,
+      "file": "cluster_4708.json",
+      "size_mb": 2.42,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 120,
+      "date_range": "2024-04-03 to 2024-11-27",
+      "total_posts": 31830
+    },
+    {
+      "cluster_id": 4717,
+      "file": "cluster_4717.json",
+      "size_mb": 2.72,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 120,
+      "date_range": "2024-04-01 to 2024-11-26",
+      "total_posts": 11833
+    },
+    {
+      "cluster_id": 4728,
+      "file": "cluster_4728.json",
+      "size_mb": 2.78,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 122,
+      "date_range": "2024-04-01 to 2024-11-29",
+      "total_posts": 21591
+    },
+    {
+      "cluster_id": 4772,
+      "file": "cluster_4772.json",
+      "size_mb": 2.7,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 122,
+      "date_range": "2024-04-01 to 2024-11-30",
+      "total_posts": 7783
+    },
+    {
+      "cluster_id": 4775,
+      "file": "cluster_4775.json",
+      "size_mb": 2.63,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 121,
+      "date_range": "2024-04-01 to 2024-11-28",
+      "total_posts": 8330
+    },
+    {
+      "cluster_id": 4918,
+      "file": "cluster_4918.json",
+      "size_mb": 2.59,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 121,
+      "date_range": "2024-04-01 to 2024-11-28",
+      "total_posts": 13265
+    },
+    {
+      "cluster_id": 4936,
+      "file": "cluster_4936.json",
+      "size_mb": 2.29,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 122,
+      "date_range": "2024-04-01 to 2024-11-29",
+      "total_posts": 1263
+    },
+    {
+      "cluster_id": 5000,
+      "file": "cluster_5000.json",
+      "size_mb": 2.18,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 101,
+      "date_range": "2024-04-20 to 2024-11-06",
+      "total_posts": 1225
+    },
+    {
+      "cluster_id": 5002,
+      "file": "cluster_5002.json",
+      "size_mb": 2.68,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 121,
+      "date_range": "2024-04-01 to 2024-11-27",
+      "total_posts": 7696
+    },
+    {
+      "cluster_id": 5031,
+      "file": "cluster_5031.json",
+      "size_mb": 2.64,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 120,
+      "date_range": "2024-04-02 to 2024-11-27",
+      "total_posts": 8313
+    },
+    {
+      "cluster_id": 5095,
+      "file": "cluster_5095.json",
+      "size_mb": 2.34,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 121,
+      "date_range": "2024-04-01 to 2024-11-27",
+      "total_posts": 1364
+    },
+    {
+      "cluster_id": 5146,
+      "file": "cluster_5146.json",
+      "size_mb": 2.36,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 121,
+      "date_range": "2024-04-01 to 2024-11-28",
+      "total_posts": 13224
+    },
+    {
+      "cluster_id": 5176,
+      "file": "cluster_5176.json",
+      "size_mb": 2.71,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 122,
+      "date_range": "2024-04-01 to 2024-11-30",
+      "total_posts": 7167
+    },
+    {
+      "cluster_id": 5188,
+      "file": "cluster_5188.json",
+      "size_mb": 2.72,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 121,
+      "date_range": "2024-04-01 to 2024-11-27",
+      "total_posts": 13779
+    },
+    {
+      "cluster_id": 5190,
+      "file": "cluster_5190.json",
+      "size_mb": 2.58,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 117,
+      "date_range": "2024-04-01 to 2024-11-20",
+      "total_posts": 16112
+    },
+    {
+      "cluster_id": 5254,
+      "file": "cluster_5254.json",
+      "size_mb": 2.6,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 121,
+      "date_range": "2024-04-01 to 2024-11-28",
+      "total_posts": 6335
+    },
+    {
+      "cluster_id": 5282,
+      "file": "cluster_5282.json",
+      "size_mb": 2.67,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 120,
+      "date_range": "2024-04-01 to 2024-11-26",
+      "total_posts": 11606
+    },
+    {
+      "cluster_id": 5348,
+      "file": "cluster_5348.json",
+      "size_mb": 2.24,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 118,
+      "date_range": "2024-04-06 to 2024-11-27",
+      "total_posts": 19610
+    },
+    {
+      "cluster_id": 5390,
+      "file": "cluster_5390.json",
+      "size_mb": 2.57,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 120,
+      "date_range": "2024-04-03 to 2024-11-27",
+      "total_posts": 8803
+    },
+    {
+      "cluster_id": 5397,
+      "file": "cluster_5397.json",
+      "size_mb": 2.65,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 122,
+      "date_range": "2024-04-01 to 2024-11-30",
+      "total_posts": 8278
+    },
+    {
+      "cluster_id": 5456,
+      "file": "cluster_5456.json",
+      "size_mb": 2.65,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 122,
+      "date_range": "2024-04-01 to 2024-11-29",
+      "total_posts": 7263
+    },
+    {
+      "cluster_id": 5490,
+      "file": "cluster_5490.json",
+      "size_mb": 2.4,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 122,
+      "date_range": "2024-04-01 to 2024-11-30",
+      "total_posts": 13681
+    },
+    {
+      "cluster_id": 5499,
+      "file": "cluster_5499.json",
+      "size_mb": 2.33,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 120,
+      "date_range": "2024-04-02 to 2024-11-27",
+      "total_posts": 25500,
+      "narrative": "Project 2025 / Heritage agenda / jobs reframe"
+    },
+    {
+      "cluster_id": 5500,
+      "file": "cluster_5500.json",
+      "size_mb": 2.79,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 122,
+      "date_range": "2024-04-01 to 2024-11-30",
+      "total_posts": 18252
+    },
+    {
+      "cluster_id": 5613,
+      "file": "cluster_5613.json",
+      "size_mb": 2.74,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 120,
+      "date_range": "2024-04-02 to 2024-11-26",
+      "total_posts": 13667
+    },
+    {
+      "cluster_id": 5655,
+      "file": "cluster_5655.json",
+      "size_mb": 2.73,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 120,
+      "date_range": "2024-04-01 to 2024-11-26",
+      "total_posts": 7403
+    },
+    {
+      "cluster_id": 5847,
+      "file": "cluster_5847.json",
+      "size_mb": 2.7,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 122,
+      "date_range": "2024-04-01 to 2024-11-30",
+      "total_posts": 10162
+    },
+    {
+      "cluster_id": 5884,
+      "file": "cluster_5884.json",
+      "size_mb": 2.14,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 113,
+      "date_range": "2024-04-04 to 2024-11-14",
+      "total_posts": 7594
+    },
+    {
+      "cluster_id": 5896,
+      "file": "cluster_5896.json",
+      "size_mb": 2.05,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 113,
+      "date_range": "2024-04-03 to 2024-11-14",
+      "total_posts": 8109
+    },
+    {
+      "cluster_id": 6052,
+      "file": "cluster_6052.json",
+      "size_mb": 2.33,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 116,
+      "date_range": "2024-04-03 to 2024-11-20",
+      "total_posts": 20469
+    },
+    {
+      "cluster_id": 6073,
+      "file": "cluster_6073.json",
+      "size_mb": 2.3,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 119,
+      "date_range": "2024-04-04 to 2024-11-26",
+      "total_posts": 16603
+    },
+    {
+      "cluster_id": 6171,
+      "file": "cluster_6171.json",
+      "size_mb": 2.74,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 120,
+      "date_range": "2024-04-02 to 2024-11-27",
+      "total_posts": 7946
+    },
+    {
+      "cluster_id": 6277,
+      "file": "cluster_6277.json",
+      "size_mb": 2.69,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 116,
+      "date_range": "2024-04-01 to 2024-11-18",
+      "total_posts": 6324
+    },
+    {
+      "cluster_id": 6319,
+      "file": "cluster_6319.json",
+      "size_mb": 2.8,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 122,
+      "date_range": "2024-04-01 to 2024-11-30",
+      "total_posts": 18084
+    },
+    {
+      "cluster_id": 6365,
+      "file": "cluster_6365.json",
+      "size_mb": 2.24,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 115,
+      "date_range": "2024-04-11 to 2024-11-25",
+      "total_posts": 22814
+    },
+    {
+      "cluster_id": 6376,
+      "file": "cluster_6376.json",
+      "size_mb": 2.77,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 121,
+      "date_range": "2024-04-01 to 2024-11-28",
+      "total_posts": 19932
+    },
+    {
+      "cluster_id": 6394,
+      "file": "cluster_6394.json",
+      "size_mb": 2.39,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 122,
+      "date_range": "2024-04-01 to 2024-11-30",
+      "total_posts": 20876
+    },
+    {
+      "cluster_id": 6536,
+      "file": "cluster_6536.json",
+      "size_mb": 2.79,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 122,
+      "date_range": "2024-04-01 to 2024-11-29",
+      "total_posts": 27922,
+      "narrative": "ActBlue / donation fraud"
+    },
+    {
+      "cluster_id": 6569,
+      "file": "cluster_6569.json",
+      "size_mb": 2.69,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 120,
+      "date_range": "2024-04-01 to 2024-11-25",
+      "total_posts": 6841
+    },
+    {
+      "cluster_id": 6607,
+      "file": "cluster_6607.json",
+      "size_mb": 2.71,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 121,
+      "date_range": "2024-04-01 to 2024-11-27",
+      "total_posts": 6655
+    },
+    {
+      "cluster_id": 6629,
+      "file": "cluster_6629.json",
+      "size_mb": 2.77,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 122,
+      "date_range": "2024-04-02 to 2024-11-30",
+      "total_posts": 16128
+    },
+    {
+      "cluster_id": 6636,
+      "file": "cluster_6636.json",
+      "size_mb": 2.12,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 117,
+      "date_range": "2024-04-08 to 2024-11-27",
+      "total_posts": 11847
+    },
+    {
+      "cluster_id": 6699,
+      "file": "cluster_6699.json",
+      "size_mb": 2.45,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 122,
+      "date_range": "2024-04-01 to 2024-11-30",
+      "total_posts": 7801
+    },
+    {
+      "cluster_id": 6740,
+      "file": "cluster_6740.json",
+      "size_mb": 2.3,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 117,
+      "date_range": "2024-04-05 to 2024-11-24",
+      "total_posts": 2038
+    },
+    {
+      "cluster_id": 6771,
+      "file": "cluster_6771.json",
+      "size_mb": 2.69,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 120,
+      "date_range": "2024-04-01 to 2024-11-25",
+      "total_posts": 12954
+    },
+    {
+      "cluster_id": 6947,
+      "file": "cluster_6947.json",
+      "size_mb": 2.35,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 117,
+      "date_range": "2024-04-01 to 2024-11-20",
+      "total_posts": 8532
+    },
+    {
+      "cluster_id": 6949,
+      "file": "cluster_6949.json",
+      "size_mb": 2.47,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 117,
+      "date_range": "2024-04-02 to 2024-11-21",
+      "total_posts": 10274
+    },
+    {
+      "cluster_id": 6950,
+      "file": "cluster_6950.json",
+      "size_mb": 2.53,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 120,
+      "date_range": "2024-04-02 to 2024-11-26",
+      "total_posts": 7668
+    },
+    {
+      "cluster_id": 6998,
+      "file": "cluster_6998.json",
+      "size_mb": 2.66,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 121,
+      "date_range": "2024-04-01 to 2024-11-28",
+      "total_posts": 6600
+    },
+    {
+      "cluster_id": 7037,
+      "file": "cluster_7037.json",
+      "size_mb": 2.47,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 122,
+      "date_range": "2024-04-01 to 2024-11-30",
+      "total_posts": 8201
+    },
+    {
+      "cluster_id": 7156,
+      "file": "cluster_7156.json",
+      "size_mb": 2.62,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 122,
+      "date_range": "2024-04-01 to 2024-11-29",
+      "total_posts": 7062
+    },
+    {
+      "cluster_id": 7158,
+      "file": "cluster_7158.json",
+      "size_mb": 2.43,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 120,
+      "date_range": "2024-04-03 to 2024-11-28",
+      "total_posts": 25821,
+      "narrative": "FEMA aid mishandling / Helene storm response"
+    },
+    {
+      "cluster_id": 7170,
+      "file": "cluster_7170.json",
+      "size_mb": 2.63,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 120,
+      "date_range": "2024-04-01 to 2024-11-26",
+      "total_posts": 5911
+    },
+    {
+      "cluster_id": 7176,
+      "file": "cluster_7176.json",
+      "size_mb": 2.13,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 112,
+      "date_range": "2024-04-11 to 2024-11-19",
+      "total_posts": 12290
+    },
+    {
+      "cluster_id": 7243,
+      "file": "cluster_7243.json",
+      "size_mb": 2.59,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 121,
+      "date_range": "2024-04-01 to 2024-11-28",
+      "total_posts": 9017
+    },
+    {
+      "cluster_id": 7369,
+      "file": "cluster_7369.json",
+      "size_mb": 2.27,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 120,
+      "date_range": "2024-04-03 to 2024-11-28",
+      "total_posts": 9225
+    },
+    {
+      "cluster_id": 7427,
+      "file": "cluster_7427.json",
+      "size_mb": 2.72,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 122,
+      "date_range": "2024-04-01 to 2024-11-30",
+      "total_posts": 6760
+    },
+    {
+      "cluster_id": 7593,
+      "file": "cluster_7593.json",
+      "size_mb": 2.52,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 120,
+      "date_range": "2024-04-01 to 2024-11-26",
+      "total_posts": 12659
+    },
+    {
+      "cluster_id": 7598,
+      "file": "cluster_7598.json",
+      "size_mb": 2.27,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 119,
+      "date_range": "2024-04-04 to 2024-11-27",
+      "total_posts": 24269,
+      "narrative": "Illegal-immigrant crime surge / border panic"
+    },
+    {
+      "cluster_id": 7753,
+      "file": "cluster_7753.json",
+      "size_mb": 2.43,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 120,
+      "date_range": "2024-04-03 to 2024-11-27",
+      "total_posts": 28548,
+      "narrative": "Purge the government / deep-state rhetoric redux"
+    },
+    {
+      "cluster_id": 7826,
+      "file": "cluster_7826.json",
+      "size_mb": 1.87,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 82,
+      "date_range": "2024-06-06 to 2024-11-16",
+      "total_posts": 8441
+    },
+    {
+      "cluster_id": 7850,
+      "file": "cluster_7850.json",
+      "size_mb": 2.15,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 117,
+      "date_range": "2024-04-04 to 2024-11-23",
+      "total_posts": 6194
+    },
+    {
+      "cluster_id": 7955,
+      "file": "cluster_7955.json",
+      "size_mb": 1.86,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 98,
+      "date_range": "2024-05-03 to 2024-11-14",
+      "total_posts": 7004
+    },
+    {
+      "cluster_id": 7992,
+      "file": "cluster_7992.json",
+      "size_mb": 2.59,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 122,
+      "date_range": "2024-04-01 to 2024-11-30",
+      "total_posts": 2915
+    },
+    {
+      "cluster_id": 8022,
+      "file": "cluster_8022.json",
+      "size_mb": 2.34,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 121,
+      "date_range": "2024-04-01 to 2024-11-27",
+      "total_posts": 9935
+    },
+    {
+      "cluster_id": 8614,
+      "file": "cluster_8614.json",
+      "size_mb": 2.82,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 122,
+      "date_range": "2024-04-01 to 2024-11-30",
+      "total_posts": 28426,
+      "narrative": "Child sex-trafficking / elite rings / Hollywood panic"
+    },
+    {
+      "cluster_id": 8621,
+      "file": "cluster_8621.json",
+      "size_mb": 2.24,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 122,
+      "date_range": "2024-04-01 to 2024-11-30",
+      "total_posts": 7975
+    },
+    {
+      "cluster_id": 9088,
+      "file": "cluster_9088.json",
+      "size_mb": 0.64,
+      "communities": 59,
+      "edges": 1711,
+      "frames": 112,
+      "date_range": "2024-04-01 to 2024-11-09",
+      "total_posts": 79
+    },
+    {
+      "cluster_id": 9319,
+      "file": "cluster_9319.json",
+      "size_mb": 2.68,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 120,
+      "date_range": "2024-04-02 to 2024-11-27",
+      "total_posts": 8531
+    },
+    {
+      "cluster_id": 9404,
+      "file": "cluster_9404.json",
+      "size_mb": 2.77,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 122,
+      "date_range": "2024-04-01 to 2024-11-30",
+      "total_posts": 12966
+    },
+    {
+      "cluster_id": 9446,
+      "file": "cluster_9446.json",
+      "size_mb": 1.16,
+      "communities": 73,
+      "edges": 2628,
+      "frames": 117,
+      "date_range": "2024-04-02 to 2024-11-21",
+      "total_posts": 259
+    },
+    {
+      "cluster_id": 9544,
+      "file": "cluster_9544.json",
+      "size_mb": 2.05,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 122,
+      "date_range": "2024-04-01 to 2024-11-30",
+      "total_posts": 2514
+    },
+    {
+      "cluster_id": 9854,
+      "file": "cluster_9854.json",
+      "size_mb": 0.24,
+      "communities": 24,
+      "edges": 276,
+      "frames": 118,
+      "date_range": "2024-04-03 to 2024-11-24",
+      "total_posts": 33
+    },
+    {
+      "cluster_id": 9861,
+      "file": "cluster_9861.json",
+      "size_mb": 0.1,
+      "communities": 25,
+      "edges": 300,
+      "frames": 15,
+      "date_range": "2024-09-12 to 2024-10-11",
+      "total_posts": 89
+    },
+    {
+      "cluster_id": 10099,
+      "file": "cluster_10099.json",
+      "size_mb": 1.8,
+      "communities": 120,
+      "edges": 4950,
+      "frames": 119,
+      "date_range": "2024-04-02 to 2024-11-25",
+      "total_posts": 744
+    }
+  ]
+}
